@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Learn to design and Code React apps</h1>
+    <h1>Learn to best design and Code React apps</h1>
     <p>Complete courses about the best tools and design systems. Prototype and built apps with React and Swift</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
